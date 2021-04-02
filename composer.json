@@ -1,0 +1,13 @@
+{
+	"autoload": {
+		"psr-4": {
+			"emag\\": "vendor/emag",
+			"app\\": "app"
+		}
+	},
+	"require": {},
+	"config": {
+		"disable-tls": true,
+		"secure-http": false
+	}
+}

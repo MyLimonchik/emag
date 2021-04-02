@@ -1,0 +1,26 @@
+<codestructure version="5.15">
+<phptree>
+<treenode node="ADMIN;PHP:PHP Word;C:\OpenServer\domains\emag\config\NewFile.php;f8;20;13;20;;;;vpos;;v;;a;;rPATH . &apos;/admin&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="APP;PHP:PHP Word;C:\OpenServer\domains\emag\config\NewFile.php;f8;5;11;5;;;;vpos;;v;;a;;rROOT . &apos;/app&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="CACHE;PHP:PHP Word;C:\OpenServer\domains\emag\config\NewFile.php;f8;8;13;8;;;;vpos;;v;;a;;rROOT . &apos;/tmp/cache&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="CODE;PHP:PHP Word;C:\OpenServer\domains\emag\config\NewFile.php;f8;6;12;6;;;;vpos;;v;;a;;rROOT . &apos;/vendor/emag/core&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="CONF;PHP:PHP Word;C:\OpenServer\domains\emag\config\NewFile.php;f8;9;12;9;;;;vpos;;v;;a;;rROOT . &apos;/config&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="DEBUG;PHP:PHP Word;C:\OpenServer\domains\emag\config\NewFile.php;f8;2;13;2;;;;vpos;;v;;a;;r1;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="LIB;PHP:PHP Word;C:\OpenServer\domains\emag\config\NewFile.php;f8;7;11;7;;;;vpos;;v;;a;;rROOT . &apos;/vendor/emag/core&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="PATH;PHP:PHP Word;C:\OpenServer\domains\emag\config\NewFile.php;f8;19;12;19;;;;vpos;;v;;a;;r$app_path;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="ROOT;PHP:PHP Word;C:\OpenServer\domains\emag\config\NewFile.php;f8;3;12;3;;;;vpos;;v;;a;;rdirname(__DIR__;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="TEMPLATE;PHP:PHP Word;C:\OpenServer\domains\emag\config\NewFile.php;f8;10;16;10;;;;vpos;;v;;a;;rROOT . &apos;/default&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="WWW;PHP:PHP Word;C:\OpenServer\domains\emag\config\NewFile.php;f8;4;11;4;;;;vpos;;v;;a;;rROOT . &apos;/public&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</phptree>
+</codestructure>

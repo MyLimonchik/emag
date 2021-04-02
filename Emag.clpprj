@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\OpenServer\domains\emag\Emag.clpprj">
+	<settings><PM_URL><![CDATA[http://emag/]]></PM_URL><PM_HOME_URL><![CDATA[http://emag/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";C:\OpenServer\domains\emag\app\NewFolder;"/><added value="C:\OpenServer\domains\emag\composer.json;"/><lastopfiles>
+		<file name="C:\OpenServer\domains\emag\composer.json"/>
+		<file name="C:\OpenServer\domains\emag\.htaccess"/>
+		<file name="C:\OpenServer\domains\emag\public\.htaccess"/>
+		<file name="C:\OpenServer\domains\emag\public\index.php"/>
+		<file name="C:\OpenServer\domains\emag\config\conf.php"/>
+		<file name="C:\OpenServer\domains\emag\vendor\autoload.php"/>
+		<file name="C:\OpenServer\domains\emag\vendor\composer\autoload_real.php"/>
+	</lastopfiles>
+	<errors version="5.11">
+	</errors>
+	<cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<filescache>
+		<file name="C:\OpenServer\domains\emag\vendor\composer\autoload_real.php" crc="1591477916"/>
+		<file name="C:\OpenServer\domains\emag\vendor\autoload.php" crc="1591478062"/>
+		<file name="C:\OpenServer\domains\emag\public\index.php" crc="1591476705"/>
+		<file name="C:\OpenServer\domains\emag\public\.htaccess" crc="1591474762"/>
+		<file name="C:\OpenServer\domains\emag\config\conf.php" crc="1591477598"/>
+		<file name="C:\OpenServer\domains\emag\composer.json" crc="1591479520"/>
+		<file name="C:\OpenServer\domains\emag\.htaccess" crc="1591474791"/>
+	</filescache>
+</project>
